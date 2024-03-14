@@ -1,4 +1,4 @@
-<h1>Projeto de Portfolio</h1>
+<h1 style="text-align: center"> Projeto de Portfolio</h1>
 <h2> 📰 Sobre</h2>
 <p>Projeto base da formação de Front-end Alura</p>
 <img src="img/desktop.png">
